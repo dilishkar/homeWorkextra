@@ -34,3 +34,30 @@
 //   counter--;
 // }
 // task6--------------------------------------------------------------------
+// const vertikal = 6;
+// const gorizont = 10;
+// let result = "";
+// for (let i = 0; i < vertikal; i++) {
+//   for (let j = 0; j < gorizont; j++) {
+//     result += "*";
+//   }
+//   result += "\n";
+// }
+// console.log(result);
+
+// task7.1-----------------------------------------------------------------------------------
+// for (let a = 1; a < 8; a++) {
+//   let wert = "";
+//   for (let b = 1; b <= a; b++) {
+//     wert += "#";
+//   }
+//   console.log(wert);
+// }
+// task7.2-----------------------------------------------------------------------------------
+// let i = 0,
+//   reshetka = "";
+// while (i <= 6) {
+//   reshetka = reshetka + "# ";
+//   console.log("" + reshetka);
+//   i++;
+// }
